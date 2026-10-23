@@ -1,10 +1,10 @@
 $ git branch -a -vv
   bug-fix-revert                f590dd5 [origin/bug-fix-revert] Add bug-fix-revert output
   bug-fix-typo                  b2abbab [origin/bug-fix-typo] Fix typo in README.md
-* main                          f590dd5 [origin/main] Add bug-fix-revert output
+* main                          529b516 [origin/main] Add github-branches output
   remotes/origin/HEAD           -> origin/main
   remotes/origin/bug-fix-revert f590dd5 Add bug-fix-revert output
   remotes/origin/bug-fix-typo   b2abbab Fix typo in README.md
-  remotes/origin/main           f590dd5 Add bug-fix-revert output
+  remotes/origin/main           529b516 Add github-branches output
   remotes/upstream/HEAD         -> upstream/main
   remotes/upstream/main         ad95b0a Create close_pr.yml
